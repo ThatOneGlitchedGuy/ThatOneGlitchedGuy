@@ -1,117 +1,84 @@
-# FAHHHH-lab ⚡
+# FAHHHH-lab
 
-<img width="1983" height="793" alt="ChatGPT Image Apr 23, 2026, 06_35_59 PM" src="https://github.com/user-attachments/assets/56eeda04-6fa5-4f1e-ac8f-f7423ed7d868" />
-
-<br/>
-<br/>
-<br/>
-
-> access was not intended  
-> you are inside
+> calm systems. clean builds (60%).
 
 ---
 
-FAHHHH-lab is not a portfolio  
-it is a **systems environment**
+FAHHHH-lab is where I build systems, tools, APIs, experiments, and random low-level stuff.
 
-focused on:
-- speed
-- minimalism
-- control
+mostly focused on:
 
-no noise  
-no filler  
-no wasted motion  
+* performance
+* minimal setups
+* automation
+* backend infra
+* clean tooling
 
-> build > talk  
-> eliminate > optimize > ship  
-
----
-
-## 🧠 SYSTEM CAPABILITIES
-
-- CLI tooling  
-- developer automation  
-- backend systems  
-- API architecture  
-- experimental infrastructure  
-
-everything exists for a reason  
-if it doesn’t → it gets removed  
+no overengineering
+no fancy buzzwords
+just building things properly
 
 ---
 
-## ⚙️ STACK LAYERS
+## STACK
 
-**low-level / control layer**  
-C • Bash • Rust • Go  
+**systems / low-level**
+C • Bash • Rust • Go
 
-**execution layer**  
-Node.js • Python • FastAPI • Flask  
+**backend**
+Node.js • Python • FastAPI • Flask
 
-**interface layer**  
-React • Next.js • Flutter  
-
-no abstraction without purpose  
+**frontend**
+React • Next.js • Flutter
 
 ---
 
-## 🧪 ACTIVE MODULES
+## PROJECTS
 
-→ FAHH-Kernel  
-→ FAHHST-Assist  
-→ FAHH-Node  
-→ FAHH-GoAPI  
-→ FAHH-DevKit  
+* FAHH-Kernel
+* FAHHST-Assist
+* FAHH-Node
+* FAHH-GoAPI
+* FAHH-DevKit
 
-modules evolve  
-nothing is final  
-
----
-
-## 🚀 DEPLOYED SYSTEMS
-
-→ sangharsh-premier-league  
-https://sangharshpremierleague.com/
-
-→ shidh-shakti-mission  
-https://shidhshaktimission.com/
-
-real systems  
-real load  
-real constraints  
+some stable
+some experimental
+all under active development
 
 ---
 
-## 🏷️ CLASSIFICATION
+## DEPLOYED
 
-FAHHHH-lab → stable systems  
-FAHHHH-exp → unstable / experimental layers  
+→ https://sangharshpremierleague.com/
+→ https://shidhshaktimission.com/
 
-if it survives → it moves up  
-
----
-
-## 📡 ACCESS POINTS
-
-interface: https://FAHHHH-lab.github.io/  
-contact: yogya.coder@gmail.com  
+real deployments
+real users
+real bugs 👍
 
 ---
 
-## ⚡ DIRECTIVE
+## PHILOSOPHY
 
-FAHHHH =  
-build  
-break  
-learn  
-repeat  
+if something feels unnecessary
+it probably is
+
+build fast
+keep it clean
+ship and improve later
 
 ---
 
-## 👁️ MAINTAINER
+## LINKS
 
-Yogya Srivastava  , 12 ,
-solo operator  
+site → https://FAHHHH-lab.github.io/
+mail → [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
 
-no team ,just systems
+---
+
+## MAINTAINER
+
+Yogya Srivastava
+
+solo dev
+building quietly
