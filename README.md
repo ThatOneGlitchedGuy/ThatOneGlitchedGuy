@@ -1,84 +1,48 @@
-# FAHHHH-lab
+# glitched-guy
 
-> calm systems. clean builds (60%).
-
----
-
-FAHHHH-lab is where I build systems, tools, APIs, experiments, and random low-level stuff.
-
-mostly focused on:
-
-* performance
-* minimal setups
-* automation
-* backend infra
-* clean tooling
-
-no overengineering
-no fancy buzzwords
-just building things properly
+> system online // state: unstable
 
 ---
 
-## STACK
-
-**systems / low-level**
-C • Bash • Rust • Go
-
-**backend**
-Node.js • Python • FastAPI • Flask
-
-**frontend**
-React • Next.js • Flutter
+Yogya Srivastava, India.  
+hacker. part-time programmer. system tinkerer.
 
 ---
 
-## PROJECTS
+things that break  
+break things to understand them  
+rebuild them until they run again
 
-* FAHH-Kernel
-* FAHHST-Assist
-* FAHH-Node
-* FAHH-GoAPI
-* FAHH-DevKit
+systems // tools // APIs // low-level experminets // hekcing
 
-some stable
-some experimental
-all under active development
+just code that runs (sometimes)
 
 ---
 
-## DEPLOYED
+## stack
 
-→ https://sangharshpremierleague.com/
-→ https://shidhshaktimission.com/
-
-real deployments
-real users
-real bugs 👍
+C • Bash • Rust • Go  
+Node.js • Python • FastAPI • Flask  
+React • Next.js • Flutter  
 
 ---
 
-## PHILOSOPHY
+## state
 
-if something feels unnecessary
-it probably is
-
-build fast
-keep it clean
-ship and improve later
+running: yes  
+stable: no  
+intent: fahh
 
 ---
 
-## LINKS
+## links
 
-site → https://FAHHHH-lab.github.io/
-mail → [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
+site → https://ThatOneGlitchedGuy.github.io/  
+mail → yogya.coder@gmail.com  
 
 ---
 
-## MAINTAINER
+## identity
 
-Yogya Srivastava
-
-solo dev
-building quietly
+Yogya Srivastava  , 12
+// Building and hecking from India.
