@@ -5,13 +5,12 @@
 ---
 
 Yogya Srivastava, India.  
-hacker. part-time programmer. system tinkerer.
+hacker. part-time programmer.
 
 ---
 
-things that break  
-break things to understand them  
-rebuild them until they run again
+break things to understand them;
+rebuild them until they run again. and say FAHH
 
 systems // tools // APIs // low-level experminets // hekcing
 
@@ -22,8 +21,11 @@ just code that runs (sometimes)
 ## stack
 
 C • Bash • Rust • Go  
-Node.js • Python • FastAPI • Flask  
-React • Next.js • Flutter  
+Node.js // Python // TypeScript.
+React • Next.js • Flutter 
+basics of Ml .
+Blockchain mechanism . 
+Backend Dev .
 
 ---
 
